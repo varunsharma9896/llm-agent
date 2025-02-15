@@ -7,3 +7,5 @@ requests
 httpx
 numpy
 python-dateutil
+pytesseract==0.3.13
+
